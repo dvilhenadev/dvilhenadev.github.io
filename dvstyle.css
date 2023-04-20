@@ -12,3 +12,24 @@ body {
 h1 {
     color: #00aa00;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: #00aa00;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
