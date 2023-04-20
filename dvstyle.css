@@ -1,0 +1,14 @@
+body {
+    background-color: #05050a;
+    color: #cccccc;
+    font-family: monospace;
+    margin-top: 2.5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 10%;
+    text-align: justify;
+}
+
+h1 {
+    color: #00aa00;
+}
