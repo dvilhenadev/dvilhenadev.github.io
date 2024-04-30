@@ -13,6 +13,14 @@ h1 {
     color: #00aa00;
 }
 
+h2 {
+  color: #00ffbb
+}
+
+p {
+  font-size: medium;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
