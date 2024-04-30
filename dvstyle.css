@@ -11,14 +11,16 @@ body {
 
 h1 {
     color: #00aa00;
+    font-size: 5vw;
 }
 
 h2 {
-  color: #00ffbb
+  color: #00ffbb;
+  font-size: 3vw;
 }
 
 p {
-  font-size: medium;
+  font-size: 2vw;
 }
 
 ul {
